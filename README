@@ -1,0 +1,6 @@
+Speech translation with embedding passing
+--------------------------------------------
+from st-emb-ps -> st-emb-ps-combemb:
+	st-emb-ps: push dynamic & static embedding together, and use dynamic embedding for ST
+	st-emb-ps-combemb: concatenate dynamic & static embedding for ST
+
